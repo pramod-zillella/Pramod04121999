@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there 👋!!!
+I am Zillella Pramod, Graduated as an Electronics Engineer from NIT Bhopal in 2021. I am highly interested in building algorithms which are robust and reduce the processing complexity and time for Medical Image Analysis Applications. The thought process of solving real-life problems and working with neural networks keeps me up‌ ‌at‌ ‌night. It is my passion to solve real life computer vision problems through the implementation and improvement of state-of-the-art‌ ‌deep‌ ‌learning‌ ‌models.
 
-<!--
-**Pramod04121999/Pramod04121999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
