@@ -4,4 +4,4 @@ I am Zillella Pramod, Graduated as an Electronics Engineer from NIT Bhopal in 20
 I appreciate any help/improvements you can give to my pinned repositories and do consider giving my repositories a ⭐️ if you like them.
 
 
-![Zillella Pramod Reddy's github stats](https://github-readme-stats.vercel.app/api?username=Pramod04121999&show_icons=true&hide=[%22contribs%22]&hide_border=true&line_height=28)
+![Zillella Pramod Reddy's github stats](https://github-readme-stats.vercel.app/api?username=Pramod04121999&show_icons=true&hide_border=true&line_height=28)
