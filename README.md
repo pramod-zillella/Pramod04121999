@@ -7,5 +7,3 @@ I am Zillella Pramod, Currently, I'm deepening my knowledge through a Master's d
 
 I appreciate any help/improvements you can give to my pinned repositories and do consider giving my repositories a ⭐️ if you like them.
 
-
-% ![Zillella Pramod Reddy's github stats](https://github-readme-stats.vercel.app/api?username=Pramod04121999&show_icons=true&hide_border=true&line_height=28)
